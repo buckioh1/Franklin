@@ -1,3 +1,5 @@
+Note: This notebook should be viewed in Jupyter Notebook for best results.
+
 # Eric Schmidt
 
 ## Assignment 6
